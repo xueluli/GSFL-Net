@@ -1,5 +1,5 @@
 # GSFL-Net
-The implementation code for GSFL-Net combined with Compact Bilinear Pooling feature extraction. The default dataset is CUB-200-2011. For other feature extaction model combined with GSFL-Net, please make your changes according the provided code.
+The implementation code for GSFL-Net combined with Compact Bilinear Pooling feature extraction. The default dataset is CUB-200-2011. For other feature extaction model combined with GSFL-Net, please make your changes according to the provided code.
  
 Save your images according to the heirarchical structure as below:
 
